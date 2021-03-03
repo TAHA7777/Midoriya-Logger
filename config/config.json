@@ -1,7 +1,0 @@
-{
-    "token": "tokenhere", // Your discord bot token goes here
-    "owners": ["ownerid"], // Your ID goes here
-    "PREFIX": "prefix", // Your prefix goes here
-    "color": "black", // Color
-    "cooldown": 5 // Cooldown (change cooldown in ms at command file [default 5s])
-}
